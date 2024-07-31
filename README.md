@@ -46,5 +46,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - Inspired by the programming exercises from [Excercises for Programmers](https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224/ref=sr_1_1?crid=3UG757LRMWVTT&dib=eyJ2IjoiMSJ9.bdb7-GJyrrdcOvEETfdsTLs3-16NxuRJ3xx2uEEh8WRcBK1vjApb_dMwLSIcoVd1jt8bN3cLkE4-u4R6Byns70w9BI8wNRoxtKZFBRZYl9uD1FhO-d6JXbV2TB-5hqlIzgiL2Scdf0zmQcjlAj2rgSlw6iAVOlB1ZMESe4Vqr3KyrmlyGL6iK2qNyZ04_ssEOxTYpMK3QwHVmrxtPeRUrw6zAZcH19q2wMCg7yGQok4.EM3IiZ3C5XBZ4KVreRU9NDOaF6iWPWZ9keHtFqoA8Nk&dib_tag=se&keywords=exercises+for+programmers&qid=1722358210&sprefix=Excersises+%2Caps%2C136&sr=8-1) and [The Pragmatic Programmer](https://pragprog.com/).
 
 ---
-
-Happy coding!
